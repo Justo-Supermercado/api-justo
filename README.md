@@ -32,10 +32,10 @@
         - docker images
         - docker run -p 8080:8080 idImagen
 
-    El servidor estará disponible en http://localhost:3000.
+    El servidor estará disponible en http://localhost:8080.
 
 ## Rutas y Endpoints
-    Aquí se describen las rutas y endpoints de tu API. Por ejemplo:
+    Aquí se describen las rutas y endpoints del API:
 
     /api/products: Obtiene los productos
     api/purchase/prices: obtiene los productos seleccionados indicando, precio y descuento aplicado. 
