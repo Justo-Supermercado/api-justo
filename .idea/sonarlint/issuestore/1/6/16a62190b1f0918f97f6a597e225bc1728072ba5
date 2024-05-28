@@ -1,0 +1,7 @@
+
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(ƒîÑÿÿÿÿÿ8ï†ôèû1J$1dcac564-5268-4bb4-99b0-a61751a0dbd5
+½
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8ñ†ôèû1J$84c319f5-edfd-4cce-a8bd-357910ce14a7
+t
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8×«˜éû1J$1e5def60-9653-4a77-bf55-9869d4b9a26d

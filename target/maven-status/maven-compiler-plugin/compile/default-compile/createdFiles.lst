@@ -1,0 +1,16 @@
+com\justo\ApiJustoApplication.class
+com\justo\enums\APIError.class
+com\justo\mapper\ProductsMapper.class
+com\justo\dto\response\ResponseProductsListDTO.class
+com\justo\dto\request\ProductToPriceDTO.class
+com\justo\dto\response\ResponseProductsDTO.class
+com\justo\util\ProductUtil.class
+com\justo\exception\APIExceptionHandler.class
+com\justo\models\Product.class
+com\justo\repository\ProductRepository.class
+com\justo\dto\response\ResponseProductToPriceDTO.class
+com\justo\dto\util\ErrorDTO.class
+com\justo\exception\JustoException.class
+com\justo\controller\PurchaseController.class
+com\justo\service\ProductService.class
+com\justo\mapper\ProductMapper.class

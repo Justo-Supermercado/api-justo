@@ -1,0 +1,16 @@
+C:\Users\eduardo.afernandez\Documents\proyect\java\api-justo\src\main\java\com\justo\ApiJustoApplication.java
+C:\Users\eduardo.afernandez\Documents\proyect\java\api-justo\src\main\java\com\justo\controller\PurchaseController.java
+C:\Users\eduardo.afernandez\Documents\proyect\java\api-justo\src\main\java\com\justo\dto\request\ProductToPriceDTO.java
+C:\Users\eduardo.afernandez\Documents\proyect\java\api-justo\src\main\java\com\justo\dto\response\ResponseProductsDTO.java
+C:\Users\eduardo.afernandez\Documents\proyect\java\api-justo\src\main\java\com\justo\dto\response\ResponseProductsListDTO.java
+C:\Users\eduardo.afernandez\Documents\proyect\java\api-justo\src\main\java\com\justo\dto\response\ResponseProductToPriceDTO.java
+C:\Users\eduardo.afernandez\Documents\proyect\java\api-justo\src\main\java\com\justo\dto\util\ErrorDTO.java
+C:\Users\eduardo.afernandez\Documents\proyect\java\api-justo\src\main\java\com\justo\enums\APIError.java
+C:\Users\eduardo.afernandez\Documents\proyect\java\api-justo\src\main\java\com\justo\exception\APIExceptionHandler.java
+C:\Users\eduardo.afernandez\Documents\proyect\java\api-justo\src\main\java\com\justo\exception\JustoException.java
+C:\Users\eduardo.afernandez\Documents\proyect\java\api-justo\src\main\java\com\justo\mapper\ProductMapper.java
+C:\Users\eduardo.afernandez\Documents\proyect\java\api-justo\src\main\java\com\justo\mapper\ProductsMapper.java
+C:\Users\eduardo.afernandez\Documents\proyect\java\api-justo\src\main\java\com\justo\models\Product.java
+C:\Users\eduardo.afernandez\Documents\proyect\java\api-justo\src\main\java\com\justo\repository\ProductRepository.java
+C:\Users\eduardo.afernandez\Documents\proyect\java\api-justo\src\main\java\com\justo\service\ProductService.java
+C:\Users\eduardo.afernandez\Documents\proyect\java\api-justo\src\main\java\com\justo\util\ProductUtil.java
