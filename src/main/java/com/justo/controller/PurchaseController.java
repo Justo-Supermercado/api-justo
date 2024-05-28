@@ -5,7 +5,6 @@ import com.justo.dto.request.ProductToPriceDTO;
 import com.justo.dto.response.ResponseProductToPriceDTO;
 import com.justo.dto.response.ResponseProductsListDTO;
 import com.justo.service.ProductService;
-import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -16,7 +15,6 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api")
-@Validated
 public class PurchaseController {
 
     private final ProductService productService;
